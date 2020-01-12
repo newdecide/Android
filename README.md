@@ -6,8 +6,11 @@
     사용자에게 익숙한 환경을 만들려면 터치를 알면 기능을 구현할 수 있습니다.
     
 > # <b>안드로이드 리포지토리</b>
-> ## <b>1. <a link="https://github.com/newdecide/AndroidTouchEvent" >안드로이드 터치 이벤트</a></b><br>
->   - 터치 이벤트 <br>
->   - 제스쳐 이벤트<br>
->   - 터치 움직임 추적<br>
+## <b>1. <a link="https://github.com/newdecide/AndroidTouchEvent" >안드로이드 터치 이벤트</a></b>
+* ### <b>터치, 제스쳐</b>
+    - 터치 이벤트 <br>
+    - 제스쳐 이벤트<br>
+    - 터치 움직임 추적<br>
+    - 다음 페이지 이동 버튼
+
 
